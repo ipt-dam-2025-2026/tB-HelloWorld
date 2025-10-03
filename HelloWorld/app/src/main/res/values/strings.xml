@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hello World</string>
+    <string name="Message">Hello World!\n\nThis is my first program</string>
 </resources>
